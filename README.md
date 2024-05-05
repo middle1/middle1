@@ -3,7 +3,10 @@
 </div>
 <div id="badges" align="center">
 	<a href="https://vk.com/middle3">
-		<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62933036/250977551-9d3032d4-8b5f-4b4f-8d88-f77fe36a4dc6.png" alt="Vk" /><br>
+		<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62933036/250977551-9d3032d4-8b5f-4b4f-8d88-f77fe36a4dc6.png" alt="Vk" />
+	</a>
+	<a href="https://telegram.org/@MIDDLE1221">
+		<img src="https://github.com/middle1/middle1/assets/62933036/1f9cff02-8bc4-4d08-8a13-748190d034d2" alt="Telegram" /><br>
 	</a>
 </div>
 
